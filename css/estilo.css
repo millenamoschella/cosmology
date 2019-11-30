@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand img {
+    width: 90px;
+}
+
+nav ul li a {
+    color: #212121;
+}
+
+nav ul li a:hover {
+    color: #455A64;
+    font-weight: bold;
+}
+
+.banner img {
+    height: 820px;
+}
+
+#serviços img {
+    height: 290px;
+    border-radius: 20px;
+
+}
+
+#frase {
+    font-size: 20px;
+    color: #607D8B;
+    font-weight: bold;
+}
+
+#quemsomos img {
+    width: 420px;
+}
+
+#quemsomos p {
+    color: #757575;
+}
+
+h2 {
+    color: #455A64;
+}
+
+textarea {
+    resize: none;
+}
+
+button {
+    background-color: #212121;
+    color: #fff;
+}
+
+button:hover {
+    background-color: #455A64;
+}
+
+footer {
+    background-color: #607D8B;
+    color: #fff;
+}
+
+h4 {
+    padding: 8px;
+    font-size: 20px;
+}
